@@ -1,0 +1,18 @@
+
+.container__menu-title{
+
+  border-top: 2px solid white;
+  border-bottom: 2px solid white;
+  margin: 0;
+}
+
+.menu-title{
+
+
+  font-size: 8.4rem;
+  padding: 1px 0.5rem;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 0;
+
+}

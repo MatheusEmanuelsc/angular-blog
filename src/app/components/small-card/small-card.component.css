@@ -1,0 +1,27 @@
+.container__news{
+  display: flex;
+  gap: 1rem;
+  border-bottom: 1px solid white;
+  margin-bottom: 1rem ;
+
+
+}
+.container__description{
+  display: flex;
+  flex-direction: column;
+
+
+}
+
+
+.img{
+  max-width: 100%;
+  display: block;
+  object-fit: cover;
+
+}
+
+.data{
+  color: darkgray;
+
+}

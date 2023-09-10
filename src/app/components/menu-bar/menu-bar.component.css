@@ -1,0 +1,30 @@
+.nav{
+
+}
+.container__menu{
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  list-style: none;
+
+}
+
+.menu__item{
+  padding: 1rem 2rem;
+  text-transform: uppercase;
+}
+
+
+.menu__item :hover{
+  text-decoration: underline;
+  color: black;
+  background-color: white;
+  font-weight: bold;
+
+}
+
+.link{
+  padding: 1rem 2rem;
+  border-radius: 2rem;
+
+}

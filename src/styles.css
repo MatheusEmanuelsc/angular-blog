@@ -1,9 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
 
 
-:root{
+:root,body{
   background-color: #111;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+h1,h2,h3{
+  color: white;
+}
+p{
+  color: gray;
+}
+
+a{
+  text-decoration: none;
+  color: white;
 }
